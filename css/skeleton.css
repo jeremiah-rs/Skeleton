@@ -7,6 +7,10 @@
 * 12/29/2014
 */
 
+/*
+Updated 8/20/2018 by Jeremiah Sarella
+*/
+
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -58,7 +62,7 @@
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
-    
+
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
@@ -157,7 +161,7 @@ p {
 
 
 /* Links
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
+––––––––––––––––––––––––––––––––––––––––––––––––––
 a {
   color: #1EAEDB; }
 a:hover {
