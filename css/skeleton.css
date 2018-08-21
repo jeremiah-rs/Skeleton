@@ -31,7 +31,7 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
@@ -58,6 +58,7 @@
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
+    
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
@@ -65,7 +66,7 @@
   .three.columns                  { width: 22%;            }
   .four.columns                   { width: 30.6666666667%; }
   .five.columns                   { width: 39.3333333333%; }
-  .six.columns                    { width: 48%;            }
+  .six.columns                    { width: 50%;            }
   .seven.columns                  { width: 56.6666666667%; }
   .eight.columns                  { width: 65.3333333333%; }
   .nine.columns                   { width: 74.0%;          }
@@ -156,11 +157,11 @@ p {
 
 
 /* Links
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+–––––––––––––––––––––––––––––––––––––––––––––––––– 
 a {
   color: #1EAEDB; }
 a:hover {
-  color: #0FA0CE; }
+  color: #0FA0CE; } */
 
 
 /* Buttons
@@ -287,21 +288,7 @@ label > .label-body {
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-ul {
-  list-style: circle inside; }
-ol {
-  list-style: decimal inside; }
-ol, ul {
-  padding-left: 0;
-  margin-top: 0; }
-ul ul,
-ul ol,
-ol ol,
-ol ul {
-  margin: 1.5rem 0 1.5rem 3rem;
-  font-size: 90%; }
-li {
-  margin-bottom: 1rem; }
+
 
 
 /* Code
